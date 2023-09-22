@@ -2,7 +2,7 @@
 
 **`Front End Developer`**
 
- I'm an experienced front end developer with more than 3 years working with web technologies. I enjoy building websites and web apps that can help people solve a specific problem. I learn by doing and I love to learn and try new technologies.
+Experienced front-end developer with over three years of experience working with web technologies. I'm passionate about building great products & collaborating on initiatives focused on helping the growth and development of both brands and users. My proficiency in HTML, CSS, JavaScript, Tailwind CSS, and Git allows me to create responsive designs, optimize website performance, and ensure cross-browser compatibility.
 
 ---
 
